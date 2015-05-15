@@ -17,4 +17,5 @@ LOG_TITLE="build"
 
 log "building using gitbook" 0
 gitbook build
+mv _book _out
 
