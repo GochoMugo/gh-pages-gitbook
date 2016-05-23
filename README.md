@@ -1,7 +1,9 @@
 
 # gh-pages-gitbook
 
-Deploy your Gitbook with Github Pages
+> Deploy your Gitbook with Github Pages
+>
+> COMPATIBLE WITH `gh-pages` [v0](https://github.com/GochoMugo/gh-pages/tree/v0).
 
 
 ## installation:
